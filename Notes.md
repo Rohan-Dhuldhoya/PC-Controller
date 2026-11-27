@@ -1,8 +1,10 @@
 ## Parts:
-- ESP32 Development Board or Raspberry Pi Pico W (more research)
-- Analog Thumbstick Module (search up tmr or hall effect)
-- Tactile Push Buttons
-- Power Source (batteries)
+- Seeed Studio XIAO ESP32-S3 (smd mount)
+- Analog Thumbstick Module (1528-1730-ND) DigiKey
+- Tactile Push Buttons (EG1829-ND) DigiKey
+- 3.7V@350mAh Lithium-ion (1528-4237-ND) DigiKey
+- JST Connecter (455-1719-ND) DigiKey
+- Power Switch (EG1903-ND) DigiKey
 ## Skills Needed:
 - Wiring
 - Soldering
@@ -49,3 +51,5 @@ Research Notes: Printed Circuit Boards (PCBs)
 - Prototyping on a breadboard before designing a PCB is recommended.
 
 In my own words, the PCB is essentially what is under the hood but then the casing is like the polished feel!
+
+I will be using the Seeed Studio XIAO ESP32-S3 because it has everything I need, Bluetooth via antenna, built in charging, USB-C and has Wi-Fi.
